@@ -1,0 +1,23 @@
+{
+  "name": "bigiot-map-visualizer",
+  "version": "1.0.0",
+  "description": "Map visualizer for BIG IoT parking data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/flowhub/bigiot-map-visualizer.git"
+  },
+  "author": "Henri Bergius <henri.bergius@iki.fi>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flowhub/bigiot-map-visualizer/issues"
+  },
+  "homepage": "https://github.com/flowhub/bigiot-map-visualizer#readme",
+  "dependencies": {
+    "leaflet": "^1.3.1",
+    "leaflet.beautifymarker": "^1.1.1"
+  }
+}
